@@ -1,4 +1,4 @@
 # open_cv
-Projects using openCV
-basics
+Projects using openCV,
+basics,
 image detector and classifier
